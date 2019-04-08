@@ -28,6 +28,8 @@ public class HomePageTest extends Base{
 		lp.getLogIn().sendKeys("email@hotmail.com");
 		lp.getPassword().sendKeys("1234");
 		lp.login().click();
+		System.out.println("PostJira2");
+		System.out.println("PostJira3");
 		
 	}
 	
