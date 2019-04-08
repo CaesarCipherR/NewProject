@@ -30,6 +30,8 @@ public class HomePageTest extends Base{
 		lp.login().click();
 		System.out.println("PostJira2");
 		System.out.println("PostJira3");
+		System.out.println("Java");
+		System.out.println("Git status");
 		
 	}
 	
