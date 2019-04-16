@@ -33,6 +33,7 @@ public class HomePageTest extends Base{
 		System.out.println("Java");
 		System.out.println("Git status");
 		System.out.println("Git status 2");
+		System.out.println("Add files");
 		
 	}
 	
