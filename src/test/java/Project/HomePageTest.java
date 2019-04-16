@@ -32,6 +32,7 @@ public class HomePageTest extends Base{
 		System.out.println("PostJira3");
 		System.out.println("Java");
 		System.out.println("Git status");
+		System.out.println("Git status 2");
 		
 	}
 	
